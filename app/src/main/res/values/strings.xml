@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadOtp</string>
+    <string name="enter_otp">Enter Otp</string>
+    <string name="otp_verification">OTP Verification</string>
+</resources>
